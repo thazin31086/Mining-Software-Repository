@@ -1,0 +1,3 @@
+What is Drupal? 
+===============
+Drupal is described as Content Management Framework, meaning it is tools for assembling specific Content management Systems. 
