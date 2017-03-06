@@ -1,0 +1,11 @@
+List of focuses in papers
+
+1. Title 
+2. Description 
+3. Research Objectives 
+4. Research algorithms and Theory
+5. How to apply tool/approach/framework 
+6. Research Evaluation
+7. Research Restrictions of Usage
+
+
