@@ -1,4 +1,5 @@
-List of focuses in papers
+
+List of focuses in papers  for research create apporach/tool/framework
 
 1. Title 
 2. Description 
@@ -8,4 +9,12 @@ List of focuses in papers
 6. Research Evaluation
 7. Research Restrictions of Usage
 
+List of focuses in papers  for empirical reserch 
+
+1. Title 
+2. Description 
+3. Research Objectives 
+4. Research Findings
+6. Research Evaluation
+5. Recommendation
 
